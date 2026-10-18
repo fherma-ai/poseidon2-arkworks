@@ -21,7 +21,6 @@ to answer early.
 ## The shapes
 
 - `input` — tensor<N x L x u64>
-- `q` — tensor<L x u64>
 - returns `digest` — tensor<L x u64>
 
 ## Generated, and not yours
